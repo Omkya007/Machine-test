@@ -1,0 +1,17 @@
+:root{
+    --primary-color:#234525;
+    --secondary-color:#393b69;
+    --color-white:#fff;
+    --color-dark:#234343;
+}
+
+body{
+    background-color: var(--secondary-color);
+}
+.table{
+    color: aqua;
+}
+button{
+    width: 100%;
+    text-align: center;
+}

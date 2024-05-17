@@ -1,0 +1,53 @@
+:root{
+    --primary-color:#E5E4E2;;
+  --secondary-color:#FFA500;
+  --color-white:#fff;
+  --color-dark:#000;
+}
+
+.heading{
+    background-color:var(--primary-color);
+}
+
+.searchBar{
+    background-color: var(--primary-color);
+}
+.one{
+    width: 100px;
+    text-decoration: none;
+    background-color: var(--secondary-color);
+    border-radius: 20px;
+}
+.image{
+    width: 80%;
+    height: 40%;
+    background-color: var(--color-white);
+    margin-top: 10px;
+    object-fit: cover;
+    
+   
+
+}
+.figimg{
+
+    height: 250px;
+    box-shadow:0px -2px 2px 2px #EDEADE;
+    margin-bottom: 40px;
+    width: 300px;	
+    text-align: center;
+    
+
+}
+.figcap{
+    left:0;
+	bottom:0;
+	background-color:var(--color-white);
+	width:100%;
+	text-align:center;
+    padding: 10px;
+}
+.para{
+    padding: 0px;
+    margin: 0px;
+}
+
